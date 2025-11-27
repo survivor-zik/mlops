@@ -1,0 +1,6 @@
+[core]
+    autostage = true
+    remote = myremote
+['remote "myremote"']
+    url = s3://buckets/amzn-w3-mlops
+    region = us-east-2

@@ -2,5 +2,5 @@
     autostage = true
     remote = myremote
 ['remote "myremote"']
-    url = s3://buckets/amzn-w3-mlops
+    url = s3://amzn-w3-mlops/dvcstore
     region = us-east-2

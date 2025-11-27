@@ -203,10 +203,9 @@ cython_debug/
 
 # Ruff stuff:
 .ruff_cache/
-
+.dvc
 # PyPI configuration file
 .pypirc
-
 .idea
 
 # Marimo
@@ -216,3 +215,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/data/
+/data

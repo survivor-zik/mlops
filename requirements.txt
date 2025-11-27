@@ -1,3 +1,4 @@
 dvc
 mlflow
 pandas
+dvc-s3

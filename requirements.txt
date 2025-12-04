@@ -4,3 +4,4 @@ pandas
 dvc-s3
 jupyter
 seaborn
+matplotlib
